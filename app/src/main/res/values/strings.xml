@@ -1,0 +1,31 @@
+<resources>
+    <string name="do_you_have_an_account_log_in">Do you have an account log_in</string>
+    <string name="sign_up">Welcome \nUser</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="do_you_have_an_account">Do you have an account?</string>
+    <string name="sing_up_to_join">Sing up to join</string>
+    <string name="signin">Sign in</string>
+    <string name="register">Register</string>
+    <string name="welcome_nuser">Welcome \nUser</string>
+    <string name="new_here">New here?</string>
+    <string name="signup">sign up</string>
+    <string name="get_started">get_started</string>
+    <string name="welcome">Welcome</string>
+    <string name="get_started1">get started</string>
+    <string name="login">Login</string>
+    <string name="google_maps_key" translatable="false">AIzaSyAfJKiM3vebQebYzhYvIP6N7TYdqkG0_lY</string>
+    <string name="select_image">select image</string>
+    <string name="post_ad">Post Ad</string>
+    <string name="post_add">Post Ad</string>
+    <string name="upload_post">upload post</string>
+    <string name="tp">TP:</string>
+    <string name="rs">Rs:</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="upload_ad">Upload Ad</string>
+
+</resources>
